@@ -1,7 +1,7 @@
 #Template script to download and install your custom version of vscode on inf ufrgs, be careful it wipes itself after closing vscode!
 #Provide your own installation and codes!
 #Made by Ian Kersz Amaral 2022 
-#Need help? Contact me in discord: kerszamaral#7499
+#Need help? Contact me on discord: kerszamaral#7499
 
 #!/bin/bash
 sudo add-apt-repository universe && #adds universe repository to apt
