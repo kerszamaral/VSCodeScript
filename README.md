@@ -1,4 +1,4 @@
-# How to install vscode for linux
+# Script for downloading and installing your custom VSCode for linux on any machine
 
 <br>**This is what's on the shell script, feel free to copy to your own or download it directly!**
 
