@@ -1,4 +1,5 @@
 # Script for downloading and installing your custom VSCode for linux on any machine
+## Be careful! It uninstalls gcc, g++, gdb, git, and python-pip from the machine to revert inf UFRGS pcs to their original state!
 
 <br>**This is what's on the shell script, feel free to copy to your own or download it directly!**
 
