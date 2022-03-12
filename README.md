@@ -1,9 +1,11 @@
 # How to install vscode for linux
 
+<br>**This is what's on the shell script, feel free to copy to your own or download it directly!**
+
 <br>**#Template script to download and install your custom version of vscode on inf ufrgs, be careful it wipes itself after closing vscode!
 <br>#Provide your own installation and codes!
 <br>#Made by Ian Kersz Amaral 2022 
-<br>#Need help? Contact me in discord: kerszamaral#7499**
+<br>#Need help? Contact me on discord: kerszamaral#7499**
 
 <br>#!/bin/bash
 <br>sudo add-apt-repository universe && **#adds universe repository to apt**
